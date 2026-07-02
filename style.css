@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+}
+h2{
+    color: burlywood;
+}
+h3{
+    color:cadetblue;
+}
+a{
+    color: blue;
+    padding: 3px;
+}
